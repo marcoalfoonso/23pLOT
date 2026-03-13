@@ -1,17 +1,17 @@
 body{
-font-family:system-ui,sans-serif
+    font-family:system-ui,sans-serif
 }
 
 h1{
-    color: rgb(255, 6, 6);
+    color: rgb(255, 0, 0);
 }
 
 p{
-    color:aliceblue;
+    color:rgb(2, 6, 10);
 }
 
 .nota{
-     background-color: #4d152b;
+    background-color: #4d152b;
     border-left: 4px solid #e00034;
     padding: 8px 20px;
 }
