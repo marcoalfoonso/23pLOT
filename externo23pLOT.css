@@ -1,0 +1,26 @@
+body{
+font-family:system-ui,sans-serif
+}
+
+h1{
+    color: rgb(255, 6, 6);
+}
+
+p{
+    color:aliceblue;
+}
+
+.nota{
+     background-color: #4d152b;
+    border-left: 4px solid #e00034;
+    padding: 8px 20px;
+}
+
+.main{
+    width: 85%;
+    margin: 12% auto;
+    position: relative;
+}
+
+
+
