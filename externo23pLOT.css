@@ -11,9 +11,32 @@ p{
 }
 
 .nota{
-    background-color: #4d152b;
+    background-color: #9e9e9e;
     border-left: 4px solid #e00034;
     padding: 8px 20px;
+}
+
+.layout{
+  display: grid;
+  grid-template-columns: 500px 1fr;
+  gap: 20px;
+}
+
+
+#q1{
+  -webkit-margin-top-collapse: none;
+  width: 100%;
+  height: 7px;
+  outline: none;
+  border-radius: 3px;
+}
+
+#q2{
+  -webkit-margin-top-collapse: none;
+  width: 100%;
+  height: 7px;
+  outline: none;
+  border-radius: 3px;
 }
 
 .main{
