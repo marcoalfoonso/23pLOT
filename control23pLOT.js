@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded",()=>{
 
     const points = [];
     points.push(new THREE.Vector3(-10,0,0));
-    points.push(new THREE.Vector3(10,7,10));
+    points.push(new THREE.Vector3(10,0,10));
 
     const geometry = new THREE.BufferGeometry().setFromPoints(points);
 
